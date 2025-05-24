@@ -85,7 +85,9 @@ export function ImageGallery({ images, title, dimensions }: ImageGalleryProps) {
         {images.map((src, index) => (
           <div
             key={index}
-            ref={el => imageRefs.current[index] = el}
+            ref={el => {
+              imageRefs.current[index] = el;
+            }}
             className="w-full min-w-full px-1 flex-shrink-0 snap-center"
           >
             <img

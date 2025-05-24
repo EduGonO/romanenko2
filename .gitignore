@@ -1,4 +1,6 @@
 # .gitignore  (top of file)
 node_modules
 .next
+buildnode_modules
+.next
 build

@@ -1,1 +1,4 @@
+# .gitignore  (top of file)
 node_modules
+.next
+build

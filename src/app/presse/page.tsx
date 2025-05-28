@@ -4,7 +4,7 @@ const articles = [
   {
     id: 1,
     title: "Michael Romanenko, constantes et évolutions d'une ligne de vie",
-    author: "Orianne Castel",
+    author: "Orianne Castel.",
     date: "Mai 2024",
     url: "https://www.art-critique.com/2024/05/michael-romanenko-constantes-et-evolutions-dune-ligne-de-vie/"
   },

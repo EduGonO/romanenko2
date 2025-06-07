@@ -10,9 +10,8 @@ const artworks = [
     year: "2022-2023",
     dimensions: "192x129cm",
     images: [
-      "https://ext.same-assets.com/2153088176/2126545.png", // LDV II.1
-      "https://ext.same-assets.com/2644536202/647915283.png",
-      "https://ext.same-assets.com/2970594183/3789920384.png"
+      "https://ext.same-assets.com/2153088176/2126545.png",    // LDV II.1
+      "https://ext.same-assets.com/2970594183/3789920384.png"  // LDV II.2
     ]
   },
   {
@@ -49,10 +48,11 @@ const artworks = [
     year: "2017-2023",
     dimensions: "130x89cm",
     images: [
-      "https://ext.same-assets.com/3917828984/688996066.png",
-      "https://ext.same-assets.com/3302415130/230946551.png", //4.2
-      "https://ext.same-assets.com/1380978334/4122856025.png", //4.3
-      "https://ext.same-assets.com/3396602070/3437174997.png",
+      "https://ext.same-assets.com/3917828984/688996066.png", // Citation 1
+      "https://ext.same-assets.com/3302415130/230946551.png", // Citation 2
+      
+      "https://ext.same-assets.com/3396602070/3437174997.png", // Citation 4
+      "https://ext.same-assets.com/2644536202/647915283.png", // Citation 5
       "https://ext.same-assets.com/1041866889/3337106001.png"
     ]
   },
@@ -64,8 +64,9 @@ const artworks = [
     year: "2020-2022",
     dimensions: "70x47cm",
     images: [
-      "https://ext.same-assets.com/2004222809/2253646228.png",
-      "https://ext.same-assets.com/2549150489/1430671246.png"
+      "https://ext.same-assets.com/2004222809/2253646228.png", // LDV I.1
+      "https://ext.same-assets.com/2549150489/1430671246.png", // LDV I.2
+      "https://ext.same-assets.com/1380978334/4122856025.png"  // LDV I.3
     ]
   }
 ];
